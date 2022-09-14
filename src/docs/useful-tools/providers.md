@@ -92,6 +92,13 @@ You can select addons, like "Archive Mode" or "Trace Mode" for an additional cos
 - Optimism Goerli
 
 
+## NOWNodes
+
+### Description and pricing
+
+Fast and reliable connection to OP node and explorer. You are connecting to the OP node and 40+ other blockchains via NOWNodes for $20/month with 1 000 000 mln requests. Focus on your blockchain project without worrying. Shared, dedicated, and archive nodes are available. You can try one month for free with 5 000 requests / per day.
+[NOWNodes](https://nownodes.io/nodes/optimism)
+
 
 ## Don't see your company here?
 
